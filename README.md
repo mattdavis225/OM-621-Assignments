@@ -4,7 +4,11 @@ This repository contains all analysis and deliverables for **OM 621: Advanced Vi
 
 The central project (Assignments 1, 2, and 3) is a consulting case focused on developing a **Transportation Cost Estimation and Forecasting System** for a client facing significant challenges due to delayed shipment invoicing.
 
-[**Insert 3-5 Minute Video Overview of your project here.** This video must use a combination of slides, the Python Notebook demo, and the Power BI Dashboard demo, as required by Milestone IV Task 2.]
+
+
+https://github.com/user-attachments/assets/2eca6411-647d-4f6e-bd1c-523e47df31b5
+
+
 
 ## Project Overview
 
